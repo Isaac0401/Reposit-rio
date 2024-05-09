@@ -1,1 +1,1 @@
-O primeiro arquivo é a main do app login, e o segundo é o arquivo inteiro do restaurante
+O arquivo main é a main do app login, e o outro é o arquivo inteiro do restaurante
